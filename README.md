@@ -5,7 +5,7 @@
 This project now includes a full-stack implementation for Startup Registration with MongoDB Atlas integration.
 
 ## Tech Stack
-
+ 
 - **Frontend**: HTML, CSS, Vanilla JavaScript
 - **Backend**: Node.js + Express.js
 - **Database**: MongoDB Atlas
